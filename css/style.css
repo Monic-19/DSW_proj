@@ -690,3 +690,6 @@ section {
 {
     top: 55px;
 }
+.box:hover{
+   color: #222 !important;
+}
