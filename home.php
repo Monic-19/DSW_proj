@@ -75,7 +75,7 @@
 
 <section class="services">
 
-   <h1 class="heading-title"> our services </h1>
+   <h1 class="heading-title"> What Your Pet Needs </h1>
 
    <div class="box-container">
 
@@ -117,7 +117,7 @@
 <section class="home-about">
 
    <div class="image">
-      <img src="img/about.jpg" height="70%" width="70%" alt="">
+      <img src="img/main.svg" height="70%" width="70%" alt="">
    </div>
 
    <div class="content">
@@ -197,7 +197,8 @@
       </div>
 
       <div class="box">
-         <h3>contact info</h3>
+         <h3>contact info</h3> <a href="#"> <i class="fas fa-phone"></i>+91 8860605970 </a>
+         <a href="#"> <i class="fas fa-phone"></i>+91 9982525733 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8826372096 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8448368331 </a>
          <a href="#"> <i class="fas fa-envelope"></i> HappyPaws@gmail.com </a>
@@ -205,6 +206,7 @@
 
       <div class="box">
          <h3>follow us</h3>
+         <a href="#"> <i class="fab fa-github"></i> Github </a>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
