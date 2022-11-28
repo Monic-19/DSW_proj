@@ -52,7 +52,7 @@
          <div class="content">
             <h3>Josera Miniwell</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1200</a>
+            <a href="#" class="btn">Rs. 1200</a>
          </div>
       </div>
 
@@ -63,7 +63,7 @@
          <div class="content">
             <h3>Josi Cat Beef</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1300</a>
+            <a href="#" class="btn">Rs. 1300</a>
          </div>
       </div>
 
@@ -74,7 +74,7 @@
          <div class="content">
             <h3>Josera Large Breed</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1400</a>
+            <a href="#" class="btn">Rs. 1400</a>
          </div>
       </div>
 
@@ -85,7 +85,7 @@
          <div class="content">
             <h3>Josera Light and Val</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1500</a>
+            <a href="#" class="btn">Rs. 1500</a>
          </div>
       </div>
 
@@ -96,7 +96,7 @@
          <div class="content">
             <h3>Josi Cat Beef</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1200</a>
+            <a href="#" class="btn">Rs. 1200</a>
          </div>
       </div>
 
@@ -107,7 +107,7 @@
          <div class="content">
             <h3>Josera Light and Val</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1500</a>
+            <a href="#" class="btn">Rs. 1500</a>
          </div>
       </div>
 
@@ -118,7 +118,7 @@
          <div class="content">
             <h3>Crispy Duck</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, odit.</p>
-            <a href="book.php" class="btn">Rs. 1500</a>
+            <a href="#" class="btn">Rs. 1500</a>
          </div>
       </div>
 
@@ -129,7 +129,7 @@
          <div class="content">
             <h3>Josera Large Breed</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1400</a>
+            <a href="#" class="btn">Rs. 1400</a>
          </div>
       </div>
 
@@ -140,7 +140,7 @@
          <div class="content">
             <h3>Josera Light and Val</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1500</a>
+            <a href="#" class="btn">Rs. 1500</a>
          </div>
       </div>
 
@@ -151,7 +151,7 @@
          <div class="content">
             <h3>Josi Cat Beef</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1200</a>
+            <a href="#" class="btn">Rs. 1200</a>
          </div>
       </div>
 
@@ -162,7 +162,7 @@
          <div class="content">
             <h3>Josera Light and Val</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">Rs. 1500</a>
+            <a href="#" class="btn">Rs. 1500</a>
          </div>
       </div>
 
@@ -173,7 +173,7 @@
          <div class="content">
             <h3>Crispy Duck</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, odit.</p>
-            <a href="book.php" class="btn">Rs. 1500</a>
+            <a href="#" class="btn">Rs. 1500</a>
          </div>
       </div>
 
@@ -214,6 +214,9 @@
 
       <div class="box">
          <h3>contact info</h3>
+         
+         <a href="#"> <i class="fas fa-phone"></i>+91 8860605970 </a>
+         <a href="#"> <i class="fas fa-phone"></i>+91 9982525733 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8826372096 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8448368331 </a>
          <a href="#"> <i class="fas fa-envelope"></i> HappyPaws@gmail.com </a>
@@ -221,6 +224,7 @@
 
       <div class="box">
          <h3>follow us</h3>
+         <a href="#"> <i class="fab fa-github"></i> Github </a>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
