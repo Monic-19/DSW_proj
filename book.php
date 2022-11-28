@@ -204,6 +204,8 @@
 
       <div class="box">
          <h3>contact info</h3>
+         <a href="#"> <i class="fas fa-phone"></i>+91 8860605970 </a>
+         <a href="#"> <i class="fas fa-phone"></i>+91 9982525733 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8826372096 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8448368331 </a>
          <a href="#"> <i class="fas fa-envelope"></i> HappyPaws@gmail.com </a>

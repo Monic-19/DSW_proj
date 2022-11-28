@@ -176,12 +176,14 @@
 
       <div class="box">
          <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="ask.php"> <i class="fas fa-angle-right"></i> ask questions</a>
          <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
       </div>
 
       <div class="box">
-         <h3>contact info</h3>
+         <h3>contact info</h3><a href="#"> 
+         <i class="fas fa-phone"></i>+91 8860605970 </a>
+         <a href="#"> <i class="fas fa-phone"></i>+91 9982525733 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8826372096 </a>
          <a href="#"> <i class="fas fa-phone"></i>+91 8448368331 </a>
          <a href="#"> <i class="fas fa-envelope"></i> HappyPaws@gmail.com </a>
