@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
  
-   <title>book</title>
+   <title>Book Now</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />

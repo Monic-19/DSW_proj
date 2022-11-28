@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
    
-   <title>about</title>
+   <title>About Us</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -24,8 +24,8 @@
    <nav class="navbar">
       <a href="home.php">home</a>
       <a href="about.php">about</a>
-      <a href="cat.php">dogs</a>
-      <a href="dog.php">cats</a>
+      <a href="dog.php">dogs</a>
+      <a href="cat.php">cats</a>
       <a href="book.php">consult</a>
    </nav>
 
