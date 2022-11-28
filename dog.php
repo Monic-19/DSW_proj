@@ -13,6 +13,7 @@
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
 
+   <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon"/>
 </head>
 <body>
    
