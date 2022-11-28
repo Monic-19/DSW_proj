@@ -73,6 +73,7 @@
 </section>
 
 
+
 <section class="services">
 
    <h1 class="heading-title"> What Your Pet Needs </h1>
@@ -81,32 +82,33 @@
 
       <div class="box">
          <img src="img/i1.png" alt="">
-         <h3>Food</h3>
+         <h3 class="box-text">Food
+         </h3>
       </div>
 
       <div class="box">
          <img src="img/i2.png" alt="">
-         <h3>Toys</h3>
+         <h3 class="box-text">Toys</h3>
       </div>
 
       <div class="box">
          <img src="img/i3.png" alt="">
-         <h3>Grooming Kit</h3>
+         <h3 class="box-text">Grooming Kit</h3>
       </div>
 
       <div class="box">
          <img src="img/i4.png" alt="">
-         <h3>Walkers</h3>
+         <h3 class="box-text">Walkers</h3>
       </div>
 
       <div class="box">
          <img src="img/i5.png" alt="">
-         <h3>Medicines</h3>
+         <h3 class="box-text">Medicines</h3>
       </div>
 
       <div class="box">
          <img src="img/i6.png" alt="">
-         <h3>Beds</h3>
+         <h3 class="box-text">Beds</h3>
       </div>
 
    </div>
