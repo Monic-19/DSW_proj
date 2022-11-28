@@ -659,7 +659,9 @@ section{
 
    .header .navbar{
       position: absolute;
-      top:99%; left:0; right:0;
+      top:99%;
+       left:0; 
+       right:0;
       background-color: var(--white);
       border-top: var(--border);
       padding:2rem;
