@@ -34,25 +34,29 @@
 </section>
 
 
-<div class="heading" style="background:url(img/header-bg.jpg) no-repeat">
-   <h1>about us</h1>
+<div class="heading" style="background:url(img/blah.png)  no-repeat;position:relative; top:-1px" align="right">
+<img align="right">
+
+   <h1 style="color:black ;position:relative; right:250px; top:2px;"> about us</h1>
 </div>
 
 
 <section class="about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="img\Pexels Photo by Samson Katt.png" alt="">
    </div>
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>You should choose us because We believe finding a reliable, professional pet sitter should be easy.So we make sure every member of the happy paws family is highly experienced animal lover 
+with a passion for petting and playing</p>
+      <p>Let us treat your pet like our own family 
+with best service and special package .</p>
       <div class="icons-container">
-         <div class="icons">
+         <div class="icons" >
             <i class="fas fa-map"></i>
-            <span>top destinations</span>
+            <span>veterinary service</span>
          </div>
          <div class="icons">
             <i class="fas fa-hand-holding-usd"></i>
@@ -68,9 +72,9 @@
 </section>
 
 
-<section class="reviews">
+<section class="reviews" style="background-color: #ED8D3E">
 
-   <h1 class="heading-title"> clients reviews </h1>
+   <h1 class="heading-title"> client reviews </h1>
 
    <div class="swiper reviews-slider">
 
@@ -84,9 +88,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>Apart from having a very interactive and helpful website, Dogkart chooses pet products from their own experience of owning a pet and tells the rest of the word about them. They encourage adoptions and have a panel of vets always ready to answer queries on their websites.</p>
+            <h3>Harry Kane</h3>
+            <span>Scietist</span>
             <img src="images/pic-1.png" alt="">
          </div>
 
@@ -97,8 +101,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>john deo</h3>
+            <p> They have grooming options for your pets and their accessories are worth a look. Their Green Gremlin Poochlight-Light Up Flashing Dog Collar is quite fascinating. Priced at INR 2,890</p>
+            <h3>Sarah Williams</h3>
             <span>traveler</span>
             <img src="images/pic-2.png" alt="">
          </div>
@@ -109,9 +113,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>It is a reasonably priced online store with discounted prices on product for your pooches. If you’re looking for food items then the pricing is just about right</p>
+            <h3> Mustafa Babbar </h3>
+            <span>Journalist</span>
             <img src="images/pic-3.png" alt="">
          </div>
 
@@ -123,9 +127,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio dignissimos nemo?</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>very reasonably priced online store, they have fish food, Jerhigh dog treats, and discounted prices</p>
+            <h3>Natasha M</h3>
+            <span>Designer</span>
             <img src="images/pic-4.png" alt="">
          </div>
 
@@ -135,9 +139,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>Apart from pet products, they also have a veterinary hospital they work with and an adoption centre where you can adopt a four legged furry friend from.</p>
+            <h3>David Dobrick</h3>
+            <span>Youtuber</span>
             <img src="images/pic-5.png" alt="">
          </div>
 
@@ -148,9 +152,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>Extremely responsive website and the store itself has a varied amount of services available</p>
+            <h3>Serena K</h3>
+            <span>Artist</span>
             <img src="images/pic-6.png" alt="">
          </div>
 
@@ -177,7 +181,7 @@
       <div class="box">
          <h3>extra links</h3>
          <a href="ask.php"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="C:\xampp\htdocs\Happy_Paws\Happy Paws.pdf"> <i class="fas fa-angle-right"></i> about us</a>
       </div>
 
       <div class="box">

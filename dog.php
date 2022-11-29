@@ -35,7 +35,7 @@
 </section>
 
 
-<div class="heading" style="background:url(./img/dogs2.jpg) no-repeat">
+<div class="heading" style="background:url(./img/dog_header.jpg) no-repeat">
    <h1>Dogs</h1>
 </div>
 

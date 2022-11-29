@@ -126,7 +126,7 @@
       <div class="box">
          <h3>extra links</h3>
          <a href="ask.php"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="C:\xampp\htdocs\Happy_Paws\Happy Paws.pdf"> <i class="fas fa-angle-right"></i> about us</a>
       </div>
 
       <div class="box">
