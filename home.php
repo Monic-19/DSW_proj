@@ -18,7 +18,9 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">Happy Paws</a>
+   <a href="home.php" class="logo">
+      <img src="./img/logo_2.png" alt="">
+   </a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -209,7 +211,7 @@
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-github"></i> Github </a>
+         <a href="https://github.com/Monic-19/Happy_Paws"> <i class="fab fa-github"></i> Github </a>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
